@@ -1,0 +1,24 @@
+{
+  "name": "node-word-game",
+  "version": "1.0.0",
+  "description": "Hangman in Node",
+  "main": "Index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "inquirer": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharryheb/node-word-game.git"
+  },
+  "author": "Sharry Heberer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharryheb/node-word-game/issues"
+  },
+  "homepage": "https://github.com/sharryheb/node-word-game#readme"
+}
